@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:01,250
+Bangs lives in the MacBook notch.
+
+2
+00:00:01,250 --> 00:00:04,000
+The logo shows who's working.
+The bars show progress.
+
+3
+00:00:04,000 --> 00:00:06,900
+Review the build command.
+Click Allow in the notch.
+
+4
+00:00:06,900 --> 00:00:09,000
+A ring counts down to the meeting.
+It turns orange near the end.
+
+5
+00:00:09,000 --> 00:00:11,700
+The agent finished.
+Tests passed and changes were committed.
+
+6
+00:00:11,700 --> 00:00:14,200
+When idle, its eyes follow the pointer.
+
+7
+00:00:14,200 --> 00:00:16,000
+Bangs supports 15 coding agents.
+Free download on the project page.

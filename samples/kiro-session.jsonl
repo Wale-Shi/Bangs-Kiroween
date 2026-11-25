@@ -1,0 +1,6 @@
+{"harness":"kiro","event":"SessionStart","pid":4242,"payload":{"session_id":"demo-1"}}
+{"harness":"kiro","event":"UserPromptSubmit","pid":4242,"payload":{"session_id":"demo-1","prompt":"Read the example project's README."}}
+{"harness":"kiro","event":"PreToolUse","pid":4242,"payload":{"session_id":"demo-1","tool_name":"fs_read","tool_input":{"path":"README.md"}}}
+{"harness":"kiro","pid":4242,"payload":{"hook_event_name":"PostToolUse","session_id":"demo-1","tool_name":"fs_read"}}
+{"harness":"kiro","event":"Stop","pid":4242,"payload":{"session_id":"demo-1"}}
+{"harness":"kiro","event":"SessionEnd","pid":4242,"payload":{"session_id":"demo-1"}}
