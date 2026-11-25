@@ -17,7 +17,7 @@ This is the source for the **Skeleton Crew** entry in Kiroween 2026. The two app
 swift run session-timeline < samples/kiro-session.jsonl
 ```
 
-**Bangs.** Use an Apple Silicon Mac on macOS 14 or later. Download the arm64 ZIP from [Bangs releases](https://github.com/Wale-Shi/Bangs-releases/releases/latest), unzip it and move Bangs.app into Applications. The downloadable app is locally signed. If macOS prompts on first launch, review it in System Settings under Privacy & Security.
+**Bangs.** Use an Apple Silicon Mac on macOS 14 or later. Download Bangs-Kiroween-arm64.zip from the [competition release](https://github.com/Wale-Shi/Bangs-Kiroween/releases/tag/kiroween-2026), unzip it and move Bangs.app into Applications. The downloadable app is locally signed. If macOS prompts on first launch, review it in System Settings under Privacy & Security.
 
 1. Open the app, then click the notch or menu-bar icon. Option–Command–B also opens the panel.
 2. To try the panel with no accounts or hooks, select Focus (专注), start a timer and collapse the panel. The countdown stays visible. Stop it after the test.
@@ -61,7 +61,7 @@ The packaging script writes the app and a ZIP into `build/`. It uses ad-hoc sign
 
 ## Source and acknowledgments
 
-The first Bangs source commit dates to November 3, 2026, during the submission period. This repository contains the contest source snapshot based on version 0.12.1. The original app is implemented in Swift, AppKit and SwiftUI. The release ZIP cited above contains the macOS app. Build the terminal app from this repository.
+The first Bangs source commit dates to November 3, 2026, during the submission period. This repository contains the contest source snapshot based on version 0.12.1. The original app is implemented in Swift, AppKit and SwiftUI. The competition release provides an Apple Silicon build of each app, produced from the same source snapshot.
 
 The notch shape and click-through design drew on [vibe-notch](https://github.com/farouqaldori/vibe-notch). Third-party CLI marks identify integrations. Their origins and modifications are listed in the [logo notices](apps/Bangs/Logos/README.md), with upstream notices under [licenses](licenses). The project's own code is available under the [MIT License](LICENSE).
 
